@@ -8,3 +8,4 @@
  I'm excited to learn and explore the world of Generative AI.
  I'm looking forward to learning from PIAIC and contributing to it as well.
  I'll be using this repository to store my assignment.
+ I'm hoping for the best.
